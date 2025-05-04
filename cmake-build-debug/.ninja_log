@@ -1,0 +1,6 @@
+# ninja log v6
+1	366	1746347433559972949	CMakeFiles/Scnu_Lab_Library.dir/main.cpp.o	57ab539331577ab7
+2	406	1746347433560972999	CMakeFiles/Scnu_Lab_Library.dir/Book.cpp.o	396695df6fecb43
+2	451	1746347433560972999	CMakeFiles/Scnu_Lab_Library.dir/Reader.cpp.o	6e69561530621d25
+3	735	1746347433561973049	CMakeFiles/Scnu_Lab_Library.dir/LibrarySystem.cpp.o	92623f3603d7879d
+735	810	1746347434294009759	Scnu_Lab_Library	ada94d39c3cde669
